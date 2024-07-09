@@ -2,7 +2,7 @@
 
 ## Personal Portfolio Website
 
-Welcome to my personal portfolio! This project showcases my skills, projects, and experiences through a beautifully designed and responsive website created using HTML and CSS.
+Welcome to my portfolio! This project showcases my work in front-end development using HTML and CSS. You can view the live version of my portfolio [here](https://iamchiranjeevir.github.io/JTD-FrontEnd-Development/Portfolio/Files/).
 
 ### Features
 - **Responsive Design:** The website is fully responsive, ensuring a seamless experience across all devices.

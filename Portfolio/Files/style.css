@@ -1,0 +1,141 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.pic{
+    margin: 40px;
+}
+.name{
+    padding: 5px;
+    position: absolute;
+    top: 10%;
+    left: 20%;
+}
+.tag-line{
+    padding: 5px;
+    position: absolute;
+    top: 18%;
+    left: 20%;
+}
+.address{
+    padding: 5px;
+    position: absolute;
+    top: 22%;
+    left: 20%;
+    font-size: 15px;
+    color: rgb(95, 95, 95);
+}
+.icons{
+    padding: 5px;
+    position: absolute;
+    top: 27%;
+    left: 20%;
+}
+.icons i{
+    font-size: 23px;
+    margin-right: 5px;
+}
+.icons a{
+    text-decoration: none;
+    color: black;
+}
+.icons i.in{
+    color: rgb(35, 86, 238);
+}
+.icons i.ig{
+    color: palevioletred;
+}
+hr{
+    border: 1px solid gray;
+    width: 95%;
+}
+
+.about{
+    width: 50%;
+    position: absolute;
+    top: 50%;
+    left: 2.5%;
+    border-radius: 10px;
+    background-color: rgb(241, 241, 241);
+}
+
+.about h2{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.about p{
+    margin: 10px;
+    padding: 10px;
+    font-size: 17px;
+}
+
+.projects{
+    top: 82%;
+}
+.projects h2{
+    margin-bottom: 20px;
+}
+.projects .box{
+    /* border: 1px solid black; */
+    width: 90%;
+    position: relative;
+    left: 5%;
+    padding: 20px;
+    margin-top: 10px;
+}
+.projects .box h4 i{
+    margin-right: 7px;
+}
+.projects .box p{
+    font-size: 13px;
+    color: rgb(76, 75, 75);
+    position: relative;
+    left: -5%;
+}
+.projects .box li{
+    color: rgb(76, 75, 75);
+}
+
+.education{
+    width: 40%;
+    position: absolute;
+    top: 50%;
+    left: 55%;
+    border-radius: 10px;
+    background-color: rgb(241, 241, 241);
+}
+
+.education h2{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.education p{
+    margin: 0px 10px;
+    margin-top: 10px;
+    padding: 10px;
+    font-size: 17px;    
+}
+.education h5{
+    margin: 0px 10px;
+    padding: 10px;
+    font-size: 15px;  
+}
+.education .yr{
+    font-size: 12px;
+    color: rgb(89, 88, 88);
+    margin-bottom: 20px;
+}
+.skills{
+    top: 92%;
+}
+
+.certifications{
+    top: 122%;
+}
+.certifications a{
+    text-decoration: none;
+    color: royalblue;
+}
